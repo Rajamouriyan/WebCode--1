@@ -1,0 +1,36 @@
+.heading-container{
+    text-align: center;
+    margin-top: 50px;
+    color:rgb(9, 14, 20);
+    background:linear-gradient(to right, rgb(165, 225, 233),rgb(114, 114, 204));
+}
+
+.side-heading{
+    text-align: left;
+    margin-top:0;
+    color:rgb(35, 22, 5);
+
+}
+
+
+.main-container{
+    display:flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+    justify-content:space-around;
+    gap:20px;
+    padding:20px;
+    margin: 0 auto;
+    background: linear-gradient(to right, rgb(165, 225, 233),rgb(114, 114, 204));
+
+}
+
+
+.container{
+    background-color:rgb(230, 240, 184);
+    padding: 10px;
+    border-radius:20px;
+    margin:10px;
+    width: 650px;
+    gap:20px;  
+}
